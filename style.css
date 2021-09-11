@@ -1,13 +1,14 @@
 :root {
     --primary: #F2C94C;
-    --black: #f12222;
+    
     --width-break:600px
 
 }
 body {
     margin: 0;
-    
-    color: #c53636;
+    background-image: url("th.jpg"); 
+    font-family: 'Roboto', sans-serif;
+    color: #0e0701;
 }
 nav {
     background-color: var(--primary);
